@@ -6,5 +6,5 @@
 * The count on your wearable will increase as you touch your device.
 * You can always reset your count with the touch of a button on the screen.
 
-![Image of app Mid progress](.png)
+![Image of app Mid progress](Mid.PNG)
 
