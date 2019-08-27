@@ -7,5 +7,5 @@
 * You can always reset your count with the touch of a button on the screen.
 
 ![Image of app  progress](Mid.PNG)
-![Image of app starting ](START.PNG)
+![Image of app starting ](Start.PNG)
 
