@@ -7,9 +7,9 @@
 * You can always reset your count with the touch of a button on the screen.
 
 ![Image of app starting ](Start.PNG) 
-* Counter at zero *
+*Counter at zero*
 
 ![Image of app  progress](Mid.PNG)
-* Using the +1 to increase the count *
+*Using the +1 to increase the count*
 
 
